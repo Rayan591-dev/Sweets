@@ -237,7 +237,7 @@ padding-bottom: var(--section-padding);
     letter-spacing: 2px;}
     @media (max-width: 767px) {
        
-        .footer .row .d-block{margin-right: 30px;
+        .footer .row .d-block{margin-right: 60px;
             margin-top: 10px;} 
             .footer .row{flex-direction: column;}
     }
